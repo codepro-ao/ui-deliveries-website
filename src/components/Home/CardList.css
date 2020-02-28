@@ -1,0 +1,37 @@
+.cardlist{
+    width: 100%;
+    height: 270px;
+    background-color: #fff;
+}
+.cardlist .cardlist-container{
+    padding: 40px 0;
+    max-width: 1120px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.cardlist-container .card{
+    margin: 0 15px;
+    padding: 25px 20px;
+    width: 270px;
+    height: 190px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #f2f2f2;
+    box-shadow: 0 14px 20px 0 rgba(178, 178, 178, 0.14);
+}
+.cardlist-container .card .wrapper{
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .cardlist-container .card .wrapper h1{
+    font-size: 32px;
+    margin: 0 0 0 10px;
+ }
+.cardlist-container .card p{
+   font-size: 16px;
+   text-align: center;
+}
