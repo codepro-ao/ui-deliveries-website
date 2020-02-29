@@ -10,23 +10,23 @@ function CardList(){
                 <div className="card">
                     <div className="wrapper">
                         <img src={Hourglass} alt="Card image"/>
-                        <h1>Loren</h1>
+                        <h1>90 min</h1>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel erat.</p>
+                    <p>Podemos entregar o mais rápido possível ou você pode agendar o serviço.</p>
                 </div>
                 <div className="card">
                     <div className="wrapper">
                         <img src={Wallet} alt="Card image"/>
-                        <h1>Ipsun</h1>
+                        <h1>1000Kz</h1>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel erat felis. </p>
+                    <p>Você sabe quanto vai pagar antes mesmo de solicitar, a partir do valor mínimo.</p>
                 </div>
                 <div className="card">
                     <div className="wrapper">
                         <img src={Browser} alt="Card image"/>
-                        <h1>Sit</h1>
+                        <h1>API</h1>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <p>Vendendo on-line? Turbine suas vendas via API.</p>
                 </div>
             </div>
         </main>
