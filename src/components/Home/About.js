@@ -10,31 +10,31 @@ function About(){
     return(
         <main className="about">
             <div className="about-container">
-                   <h1><span className="logo">My Logo</span> Lorem ipsum dolor sit  consectetur.</h1>
+                   <h1><span className="logo">Água Aki</span> é a melhor opção online de entregas</h1>
                    <div className="cards">
                         <div className="card">
                             <div><img src={Card} alt="Card image"/></div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel erat felis. Morbi lobortis diam sit amet egestas elementum. Cras fringilla dictum porttitor. Praesent libero odio, mattis pulvinar orci non, dapibus porta nunc. Vestibulum sit amet consequat lectus.</p>
+                            <p>Você ou sua empresa criam o acesso na plataforma da Click Entregas de forma gratuita, e podem usar nossos serviços com pagamento em dinheiro, diretamente ao entregador ou via boleto com faturamento todo dia 10.</p>
                         </div>
                         <div className="card">
                             <div><img src={Rate} alt="Card image"/></div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel erat felis. Morbi lobortis diam sit amet egestas elementum. Cras fringilla .</p>
+                            <p>Contamos com cerca de 10.000 entregadores cadastrados, nosso sistema atribui o entregador melhor avaliado e mais próximo para atender seu pedido.</p>
                         </div>
                         <div className="card">
                             <div><img src={Wizard} alt="Card image"/></div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel erat felis. Morbi lobortis diam sit amet egestas elementum. Cras fringilla dictum porttitor. Praesent libero.</p>
+                            <p>Através do nosso site existe a possibilidade de fazer a simulação dos preços, como também agendar suas entregas apenas fornecendo seu número de celular durante o preenchimento.</p>
                         </div>
                         <div className="card">
                             <div><img src={SMS} alt="Card image"/></div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel erat felis. Morbi lobortis diam sit amet egestas elementum. Cras fringilla dictum porttitor. </p>
+                            <p>Após a confirmação do seu pedido de entrega enviaremos o sms com nome e número de celular do entregador para pessoa de contato em cada ponto de retirada/entrega.</p>
                         </div>
                         <div className="card">
                             <div><img src={Rocket} alt="Card image"/></div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel erat felis. Morbi lobortis diam sit amet egestas elementum. Cras fringilla.</p>
+                            <p>Os entregadores cadastrados na Click Entregas são treinados e capacitados para que sua encomenda chegue o mais rápido possível no seu destino.</p>
                         </div>
                         <div className="card">
                             <div><img src={Calc} alt="Card image"/></div>       
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel erat felis. </p>
+                            <p>Através do site da Click Entregas você pode obter o custo do seu envio on-line.</p>
                         </div>
                    </div>
                </div>
