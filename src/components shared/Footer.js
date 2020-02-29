@@ -8,33 +8,33 @@ function Footer(){
     return(
             <main className="footer">
                 <div className="footer-links">
-                    <div><h1>My Logo</h1></div>
+                    <div><h1>Água Aki</h1></div>
                     <div>
                         <ul>
-                            <li>Nullam</li>
-                            <li>Lorem</li>
-                            <li>Nullam</li>
-                            <li>Lorem e Nullam</li>
-                            <li>Nullam  Lorem</li>
-                            <li>Lorem e Nullam</li>
-                            <li>Nullam Lorem</li>
-                            <li>Lorem e Nu</li>
-                            <li>Nullam  Lorem</li>
-                            <li className="contact">phone:</li>
-                            <li className="contact-link">+1 (54) 222 222</li>
+                            <li>Preços</li>
+                            <li>Vagas</li>
+                            <li>Contatos</li>
+                            <li>Termos e condições</li>
+                            <li>Pedido de entrega</li>
+                            <li>Dostavista Group</li>
+                            <li>Perguntas frequentes</li>
+                            <li>Sobre nós</li>
+                            <li>Para entregadores</li>
+                            <li className="contact">telefone:</li>
+                            <li className="contact-link">+244 222 222</li>
                         </ul>
                     </div>
                     <div>
                         <ul>
-                            <li>Lorem Nullam </li>
-                            <li>Lorem</li>
-                            <li>Lorem Nullam</li>
-                            <li>Lorem e Nullam</li>
-                            <li>Lorem</li>
-                            <li>Lorem e Nullam</li>
-                            <li>Nullam de Lorem</li>
-                            <li>Lorem e Nu</li>
-                            <li>Nullam</li>
+                            <li>Vagas</li>
+                            <li>Contatos</li>
+                            <li>Termos e condições</li>
+                            <li>Pedido de entrega</li>
+                            <li>Dostavista Group</li>
+                            <li>Perguntas frequentes</li>
+                            <li>Sobre nós</li>
+                            <li>Para entregadores</li>
+                            <li>Documentação API</li>
                             <li className="contact">e-mail:</li>
                             <li className="contact-link">exemplo@email.com</li>
                         </ul>
@@ -56,7 +56,7 @@ function Footer(){
                             <img src={Facebook} alt="AppStore image"/>
                             <img src={Instagram} alt="GooglePlay image"/>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel erat felis. Morbi lobortis diam.</p>
+                        <p>CALL CENTER: Das 8:00 às 21:00 Seg-Sex. O nosso serviço de agendamento on-line opera 24/7.</p>
                    </div>
                 </div>
             </main>
