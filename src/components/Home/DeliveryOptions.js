@@ -7,19 +7,19 @@ function DeliveryOptions(){
     return(
         <main className="deliverydptions">
             <div className="deliverydptions-container">
-                <h1>Opções de entrega</h1>
+                <h1>Lorem ipsum dolor</h1>
                 <div className="cards">
                     <div className="card">
                         <img src={Moto} alt="Card image"/>
-                        <h2>Moto</h2>
+                        <h2>Lore</h2>
                     </div>
                     <div className="card">
                         <img src={Car} alt="Card image"/>
-                        <h2>Carro</h2>
+                        <h2>Sit</h2>
                     </div>
                     <div className="card">
                         <img src={Van} alt="Card image"/>
-                        <h2>Carrinha</h2>
+                        <h2>Dollaar</h2>
                     </div>
                 </div>
             </div>

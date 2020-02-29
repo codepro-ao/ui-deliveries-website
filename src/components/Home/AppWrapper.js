@@ -1,5 +1,5 @@
 import React from 'react'
-import AppStore from '../../assets/img/br/vehicles/moto.svg'
+import AppStore from '../../assets/img/br/mobile-app/appstore.svg'
 import GooglePlay from '../../assets/img/br/mobile-app/playstore.svg'
 import AppMobile from '../../assets/img/br/app-promo/app-promo.png'
 import './AppWrapper.css'
@@ -9,9 +9,9 @@ function AppWrapper(){
             <div className="appwrapper-container">
                 <div className="describle">
                     <h2>
-                        Instale o APP e tenha todos os entregadores na sua mão
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                     </h2>
-                    <p>Qualquer momento crie novos pedidos de entrega e acompanhe pedidos em andamento também.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel erat felis Morbi .</p>
                     <div className="describle-img">
                         <img src={AppStore} alt="AppStore image"/>
                         <img src={GooglePlay} alt="GooglePlay image"/>
