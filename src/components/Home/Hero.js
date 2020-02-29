@@ -6,21 +6,21 @@ function Hero(){
             <div className="hero-container">
                 <div className="hero-container-top">
                     <div className="describle">
-                        <h1>Solicite a sua entrega online. Rápido e fácil.</h1>
-                        <p>Crie o seu acesso e experimente.</p>
+                        <h1>Lorem ipsum dolor sit amet, consectetur adipi.</h1>
+                        <p>Lorem ipsum dolor sit amet, con</p>
                     </div>
                     <form className="hero-form">
-                        <input placeholder="Endereço" type="text" />
-                        <input placeholder="Endereço" type="text" />
+                        <input placeholder="Dolor" type="text" />
+                        <input placeholder="Dolor" type="text" />
                         <div className="veiculo">
-                            <button>Carro</button>
-                            <button>Moto</button>
+                            <button>Loren</button>
+                            <button>Ipson</button>
                         </div>
-                        <button className="btn-solicitar">Solicitar entrega</button>
+                        <button className="btn-solicitar">Lorem ipsum dolor</button>
                     </form>
                 </div>
                 <div className="hero-container-botton">
-                        <p>Estamos presentes em Angola</p>
+                        <p>Lorem ipsum dolor sit amet. </p>
                 </div>
             </div>
         </main>
