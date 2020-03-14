@@ -1,6 +1,5 @@
 main.describle{
     width: 100%;
-    height: 460px;
     border-bottom: 2px solid #edf6ff;
     height: 620px;
     display: flex;
@@ -44,4 +43,50 @@ main.describle{
 
  .describle-container button:hover{
      background-color: #039232;
+  }
+
+  @media(max-width:768px){
+    main.describle{
+        padding: 40px 30px;
+        width: 100%;
+        min-height: 660px;
+        height: auto;
+        border-bottom: 2px solid #edf6ff;
+        height: 620px;
+        display: flex;
+        align-items: center;
+    }
+    
+    .describle-container h1{
+        font-size: 22px;
+        text-align: center;
+        font-weight: lighter;
+        max-width: 705px;
+        padding: 20px  0 10px;
+        text-align: center;
+    }
+    .describle-container p{
+        font-size: 14px;
+    }
+    .describle-container{
+        width: 100%;
+        max-width: 1120px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: auto 0;
+        height: auto;
+    }
+    .describle-container button{
+        margin-top: 0;
+        width: 298px;
+        height: 46px;
+        font-size: 18px;
+        border: 1px solid #009f35;
+        border-radius: 3px;
+        color: #fff;
+        background-color: #009f35;
+        cursor: pointer;
+    }
+    
   }
