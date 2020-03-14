@@ -1,8 +1,8 @@
 *{
     box-sizing: border-box;
-    font-family: 'Roboto'!important;
-
+    font-family: 'Noto Sans', sans-serif!important;
 }
 body{
     margin: 0;
+    min-width: 100%;
 }
