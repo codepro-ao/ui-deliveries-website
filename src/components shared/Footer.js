@@ -52,7 +52,7 @@ function Footer(){
                 </div>
                 <div className="footer-copyright">
                    <div className="footer-copyright-wrapper">
-                    <div className="social-network">
+                        <div className="social-network">
                             <img src={Facebook} alt="AppStore image"/>
                             <img src={Instagram} alt="GooglePlay image"/>
                         </div>
