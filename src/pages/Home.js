@@ -13,11 +13,11 @@ function Home (){
             <Header/>
             <Hero/>
             <CardList/>
-            <AppWrapper/>
+            <AppWrapper/> 
             <About/>
             <DeliveryOptions/>
             <Describle/>
-            <Footer/>
+            <Footer/>  
         </>
     )
 }
