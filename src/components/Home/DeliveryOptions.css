@@ -41,3 +41,19 @@
     margin-top: 10px;
     text-align: center;
 }
+
+@media(max-width:768px){
+    .deliverydptions-container  .cards{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .deliverydptions{
+        width: 100%;
+        min-height: 325px;
+        height: auto;
+        border-bottom: 2px solid #edf6ff;
+    }
+}
