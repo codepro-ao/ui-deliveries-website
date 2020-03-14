@@ -1,4 +1,4 @@
-header{
+.header{
     width: 100%;
     height: 70px;
     background-color: #fff;
@@ -13,7 +13,7 @@ header{
     margin: 0 auto;
     justify-content: space-between;
 }
- header h1{
+.header h1{
      margin: 0;
      font-family: 'Playfair Display'!important;
      font-size: 25px;
@@ -64,3 +64,24 @@ header{
  }
 
 
+@media(max-width:768px){
+    .header{
+        width: 100%;
+        height: 70px;
+        background-color: #fff;
+        box-shadow: 0 2px 4px 0 rgba(80, 89, 100, 0.46);
+    }
+    .header-container{
+        width: 100%;
+        margin: 0!important;
+    }
+    .header h1{
+        margin: 0;
+        font-family: 'Playfair Display'!important;
+        padding: 0 0 0 40px;
+        font-size: 22px;
+    }
+    .header-container ul{
+        display: none!important;
+    }
+}
