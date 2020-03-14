@@ -9,6 +9,7 @@
     margin: 0 auto;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .cardlist-container .card{
@@ -34,4 +35,31 @@
 .cardlist-container .card p{
    font-size: 16px;
    text-align: center;
+}
+@media(max-width:768px){
+    .cardlist{
+        width: 100%;
+        min-height: 270px;
+        height: auto;
+        background-color: #fff;
+    }
+    .cardlist .cardlist-container{
+        padding: 40px 0;
+        max-width: 1120px;
+        margin: auto 0;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+    .cardlist-container .card{
+        margin: 15px 0;
+        padding: 25px 20px;
+        width: 270px;
+        height: 190px;
+        display: flex;
+        flex-direction: column;
+        border: 1px solid #f2f2f2;
+        box-shadow: 0 14px 20px 0 rgba(178, 178, 178, 0.14);
+    }
 }
