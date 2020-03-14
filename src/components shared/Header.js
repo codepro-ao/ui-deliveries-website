@@ -2,7 +2,7 @@ import React from 'react'
 import './Header.css'
 function Header(){
     return(
-        <header>
+        <header className="header">
             <div className="header-container">
                 <h1>My logo</h1>
                 <ul>
