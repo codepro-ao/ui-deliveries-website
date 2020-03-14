@@ -21,7 +21,6 @@ function AppWrapper(){
                     <img 
                         src={AppMobile}
                         alt="Mobile Screanshot"
-                        srcset="../../assets/img/br/app-promo/app-promo@2x.png 2x, ../../assets/img/br/app-promo/app-promo@3x.png 3x"
                     />
                 </div>
             </div>
